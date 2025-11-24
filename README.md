@@ -1,9 +1,3 @@
-Great — your full project is working, so here is a **professional, polished, company-ready `README.md`** that satisfies everything Totem Interactive asked for in the assignment PDF .
-
-You can paste this directly into your repo.
-
----
-
 # 🚀 Prompt Router & Enhancer (Totem Interactive Assignment)
 
 A minimal working prototype that:
