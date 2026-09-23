@@ -1,4 +1,4 @@
-# 🚀 Prompt Router & Enhancer (Totem Interactive Assignment)
+# 🚀 Prompt Router & Enhancer
 
 A minimal working prototype that:
 
